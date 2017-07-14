@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Cash Addition, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>  Cash Addition.vcxproj -> C:\Users\iD Student\documents\visual studio 2015\Projects\Cash Addition\Debug\Cash Addition.exe
+1>  Cash Addition.vcxproj -> C:\Users\iD Student\documents\visual studio 2015\Projects\Cash Addition\Debug\Cash Addition.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Game Numbers, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>  Game Numbers.vcxproj -> c:\users\id student\documents\visual studio 2015\Projects\Game Numbers\Debug\Game Numbers.exe
+1>  Game Numbers.vcxproj -> c:\users\id student\documents\visual studio 2015\Projects\Game Numbers\Debug\Game Numbers.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
